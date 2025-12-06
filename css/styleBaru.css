@@ -631,7 +631,7 @@ footer {
   }
 }
 
-@media (max-width: 768px) {
+@media (max-width: 770px) {
   /* Mobile */
   .navbar {
     flex-direction: column;
@@ -710,7 +710,7 @@ footer {
 }
 
 .menu-icon {
-  /* background-color: #ff65f7; */
+
   font-size: 23px;
   display: none;
   width: 100%;
