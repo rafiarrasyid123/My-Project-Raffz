@@ -735,7 +735,7 @@ footer {
 
   .navbaritem.open {
     display: flex;
-    margin-top: 25px;
+    margin-top: 45px;
     justify-content: flex-end;
     max-height: 500px;
     animation: slideDownMenu 0.4s ease-in-out;
