@@ -549,7 +549,7 @@ footer {
   line-height: 1;
 }
 
-/* Tombol Download Hero - Lebih Bagus */
+/* Tombol Download Hero */
 .btn-download-hero {
   display: inline-flex;
   align-items: center;
@@ -717,9 +717,10 @@ footer {
   justify-content: flex-end;
 }
 
+/* buat hamburger menu */
 @media only screen and (max-width: 770px) {
   .navbaritem {
-    display: none; /* disembunyikan default di HP */
+    display: none; 
     width: 100%;
     flex-direction: column;
     position: absolute;
