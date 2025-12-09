@@ -14,3 +14,4 @@ menuIcon.addEventListener("click", () => {
         menuIconInner.classList.add("ri-menu-line");
     }
 });
+

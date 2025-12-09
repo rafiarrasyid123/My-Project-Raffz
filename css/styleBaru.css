@@ -368,6 +368,10 @@ body {
   transition: var(--transition);
 }
 
+.project-container{
+  text-align: center;
+}
+
 .project-section:hover {
   transform: translateY(-5px);
 }
@@ -398,13 +402,14 @@ body {
 
 .project-section .card:hover {
   transform: translateY(-10px);
-  background: rgba(255, 255, 255, 0.2);
+  background-color: rgba(255, 255, 255, 0.2);
 }
 
 .project-section .card img {
   width: 40%;
   height: auto;
   border-radius: 10px;
+  box-shadow: var(--shadow);
   margin-bottom: 15px;
 }
 
