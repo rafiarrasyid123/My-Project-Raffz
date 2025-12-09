@@ -780,7 +780,10 @@ footer {
 
   .menu-icon.open {
     transform: rotate(90deg);
-  }
+  } 
+  .project-container{
+  text-align: center;
+}
 }
 
 @keyframes slideDownMenu {
