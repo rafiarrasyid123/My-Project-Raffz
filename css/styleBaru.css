@@ -159,7 +159,7 @@ body {
 }
 
 .hero-section .desc-section {
-  background: var(--card-bg);
+  margin: 25%;
   backdrop-filter: blur(10px);
   padding: 50px;
   border-radius: 20px;
